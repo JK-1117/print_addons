@@ -11,7 +11,7 @@ app_license = "mit"
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/print_addons/css/print_addons.css"
-# app_include_js = "/assets/print_addons/js/print_addons.js"
+app_include_js = "/assets/print_addons/js/signature.bundle.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/print_addons/css/print_addons.css"
@@ -226,4 +226,3 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-
