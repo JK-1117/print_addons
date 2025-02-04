@@ -18,7 +18,7 @@
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2024-05-26 15:14:57.434329",
+ "modified": "2025-02-04 18:59:59.065218",
  "modified_by": "Administrator",
  "module": "Print Addons",
  "name": "Print Addons Settings",
@@ -33,6 +33,11 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "read": 1,
+   "role": "All",
+   "select": 1
   }
  ],
  "sort_field": "modified",
